@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🧑‍💻 Developer in training and Computer Science student at the University of Fortaleza.<br>- 🎓 Currently in the 4th semester, exploring topics such as Web Development, Databases, and Artificial Intelligence.<br>- 🚀 Passionate about innovation and automation.</p>
+<p align="left">- 🧑‍💻 Developer in training and Computer Science student at the University of Fortaleza.<br>- 🎓 Currently in the 5th semester, exploring topics such as Web Development, Databases, and Artificial Intelligence.<br>- 🚀 Passionate about innovation and automation.</p>
 
 ###
 
