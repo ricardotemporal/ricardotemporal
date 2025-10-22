@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Ricardo Temporal, a 20-year-old from Brazil.</h1>
+<h1 align="center">Hello 👋 I'm Ricardo Temporal, a 21-year-old from Brazil.</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🧑‍💻 Developer in training and Computer Science student at the University of Fortaleza.<br>- 🎓 Currently in the 5th semester, exploring topics such as Web Development, SQL, Automated Testing, Containers, CI/CD, Agile Methodologies, and Artificial Intelligence.<br>- 🚀 Passionate about innovation and automation.</p>
+<p align="left">- 🧑‍💻 Developer in training and Computer Science student at the University of Fortaleza.<br>- 🎓 Currently in the 6th semester, exploring topics such as Web Development, SQL, Automated Testing, Containers, CI/CD, Agile Methodologies, and Artificial Intelligence.<br>- 🚀 Passionate about innovation and automation.</p>
 
 ###
 
